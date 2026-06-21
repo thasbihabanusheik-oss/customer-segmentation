@@ -8,20 +8,6 @@ businesses understand different customer types so they can target
 marketing, offers, and services more effectively.
 
 ---
-
-## 📂 Project Structure
-```
-.
-├── customer_segmentation.py      # Main program
-├── Mall_Customers.csv            # (Optional) your own dataset
-├── customer_segments_output.csv  # Output: labeled dataset (generated)
-├── elbow_silhouette.png          # Output: elbow + silhouette plots (generated)
-├── customer_segments.png         # Output: cluster visualization (generated)
-└── README.md
-```
-
----
-
 ## ⚙️ Requirements
 
 - Python 3.8+
